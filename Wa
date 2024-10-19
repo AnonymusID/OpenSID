@@ -1,0 +1,233 @@
+<html>
+ <head>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet"/>
+ </head>
+ <body class="bg-white font-roboto">
+  <div class="p-4">
+   <!-- Top Bar -->
+   <div class="flex justify-between items-center mb-4">
+    <div class="text-lg">
+     17:43
+    </div>
+    <div class="flex items-center space-x-2">
+     <div class="text-xs">
+      711 KB/d
+     </div>
+     <div class="text-xs">
+      42%
+     </div>
+     <i class="fas fa-battery-half">
+     </i>
+    </div>
+   </div>
+   <!-- Header -->
+   <div class="flex justify-between items-center mb-4">
+    <div class="text-2xl font-medium">
+     Pembaruan
+    </div>
+    <div class="flex space-x-4">
+     <i class="fas fa-camera text-xl">
+     </i>
+     <i class="fas fa-search text-xl">
+     </i>
+     <i class="fas fa-ellipsis-v text-xl">
+     </i>
+    </div>
+   </div>
+   <!-- Status Section -->
+   <div class="mb-4">
+    <div class="text-lg font-medium mb-2">
+     Status
+    </div>
+    <div class="flex space-x-4">
+     <div class="flex flex-col items-center">
+      <div class="w-16 h-16 rounded-full bg-gray-300 flex items-center justify-center">
+       <i class="fas fa-user text-2xl text-gray-500">
+       </i>
+      </div>
+      <div class="text-sm text-center">
+       Status s...
+      </div>
+     </div>
+     <div class="flex flex-col items-center">
+      <div class="w-16 h-16 rounded-full border-2 border-green-500">
+       <img alt="Status image 1" class="rounded-full" height="64" src="https://storage.googleapis.com/a1aa/image/T6ZBJ5qP1wrbEVXLWutQ8l8q9fGOdIikiwEZF9EI1S3EfToTA.jpg" width="64"/>
+      </div>
+      <div class="text-sm text-center">
+       Kinoo B...
+      </div>
+     </div>
+     <div class="flex flex-col items-center">
+      <div class="w-16 h-16 rounded-full border-2 border-green-500">
+       <img alt="Status image 2" class="rounded-full" height="64" src="https://storage.googleapis.com/a1aa/image/INxWgrwG6kKULVIv04GMisKHxxqb59DGRyPUSSn0GVVjfJ0JA.jpg" width="64"/>
+      </div>
+      <div class="text-sm text-center">
+       Hervin B...
+      </div>
+     </div>
+     <div class="flex flex-col items-center">
+      <div class="w-16 h-16 rounded-full border-2 border-green-500">
+       <img alt="Status image 3" class="rounded-full" height="64" src="https://storage.googleapis.com/a1aa/image/FbQzHkAcaL50MlNhjXfNmfmmIW84rkJmkzakgX1dpfUU8nQnA.jpg" width="64"/>
+      </div>
+      <div class="text-sm text-center">
+       Rian rtm
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- Channels Section -->
+   <div class="mb-4">
+    <div class="flex justify-between items-center mb-2">
+     <div class="text-lg font-medium">
+      Saluran
+     </div>
+     <div class="text-green-500">
+      Jelajahi
+     </div>
+    </div>
+    <div class="space-y-4">
+     <div class="flex justify-between items-center">
+      <div class="flex items-center space-x-4">
+       <div class="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center">
+        <i class="fas fa-comment text-2xl text-gray-500">
+        </i>
+       </div>
+       <div>
+        <div class="font-medium">
+         Republika
+        </div>
+        <div class="text-sm text-gray-500">
+         https://khazanah.republika.co.id...
+        </div>
+       </div>
+      </div>
+      <div class="text-green-500">
+       16.59
+      </div>
+      <div class="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center">
+       357
+      </div>
+     </div>
+     <div class="flex justify-between items-center">
+      <div class="flex items-center space-x-4">
+       <div class="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center">
+        <i class="fas fa-f text-2xl text-gray-500">
+        </i>
+       </div>
+       <div>
+        <div class="font-medium">
+         Fimela.com
+        </div>
+        <div class="text-sm text-gray-500">
+         Tak Hanya Jago di Lapangan,...
+        </div>
+       </div>
+      </div>
+      <div class="text-green-500">
+       16.04
+      </div>
+      <div class="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center">
+       86
+      </div>
+     </div>
+     <div class="flex justify-between items-center">
+      <div class="flex items-center space-x-4">
+       <div class="w-10 h-10 rounded-full">
+        <img alt="Channel image 1" class="rounded-full" height="40" src="https://storage.googleapis.com/a1aa/image/QVxQgsve4GyVEyjfrKXFWi0seUiYoBudBzqjCVemxJffifJ0JA.jpg" width="40"/>
+       </div>
+       <div>
+        <div class="font-medium">
+         tempat`galaumu
+        </div>
+        <div class="text-sm text-gray-500 flex items-center">
+         <i class="fas fa-video mr-1">
+         </i>
+         Video
+        </div>
+       </div>
+      </div>
+      <div class="text-green-500">
+       14.21
+      </div>
+      <div class="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center">
+       305
+      </div>
+     </div>
+     <div class="flex justify-between items-center">
+      <div class="flex items-center space-x-4">
+       <div class="w-10 h-10 rounded-full bg-green-500 flex items-center justify-center">
+        <i class="fab fa-whatsapp text-2xl text-white">
+        </i>
+       </div>
+       <div>
+        <div class="font-medium">
+         WhatsApp
+        </div>
+        <div class="text-sm text-gray-500">
+         7.05
+        </div>
+       </div>
+      </div>
+      <div class="text-green-500">
+       Kemarin
+      </div>
+     </div>
+     <div class="flex justify-between items-center">
+      <div class="flex items-center space-x-4">
+       <div class="w-10 h-10 rounded-full">
+        <img alt="Channel image 2" class="rounded-full" height="40" src="https://storage.googleapis.com/a1aa/image/Op2vD9ntGe3FDin6vf6hQiNuztCenJ9jHfpGBVeHHkx4wfE6E.jpg" width="40"/>
+       </div>
+       <div>
+        <div class="font-medium">
+         Star Media Nusantara
+        </div>
+        <div class="text-sm text-gray-500">
+         See you besok hingga minggu
+        </div>
+       </div>
+      </div>
+      <div class="text-green-500">
+       08.19.04
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- Bottom Navigation -->
+   <div class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200">
+    <div class="flex justify-around items-center py-2">
+     <div class="flex flex-col items-center">
+      <i class="fas fa-comments text-xl">
+      </i>
+      <div class="text-sm">
+       Chat
+      </div>
+     </div>
+     <div class="flex flex-col items-center text-green-500">
+      <i class="fas fa-sync-alt text-xl">
+      </i>
+      <div class="text-sm">
+       Pembaruan
+      </div>
+     </div>
+     <div class="flex flex-col items-center">
+      <i class="fas fa-users text-xl">
+      </i>
+      <div class="text-sm">
+       Komunitas
+      </div>
+     </div>
+     <div class="flex flex-col items-center">
+      <i class="fas fa-phone text-xl">
+      </i>
+      <div class="text-sm">
+       Panggilan
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
